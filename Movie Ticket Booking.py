@@ -64,5 +64,5 @@ while(a!=0):
             f=m[i].bill(y,z,meal)
             m[i].info(y,z,meal,f)
     if b==0:
-        print('Movie entered is not available.')      
+        print('Movie entered is not available.')     
     a=int(input('\nEnter 1 to book again, 0 to exit.: '))
