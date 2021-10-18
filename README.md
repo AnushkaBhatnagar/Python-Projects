@@ -1,4 +1,4 @@
-# Python-Projects
+# Python Projects
 Programming Projects in Python
 
 ## Movie Ticket Booking
